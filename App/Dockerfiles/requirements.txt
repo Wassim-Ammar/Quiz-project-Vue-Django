@@ -1,0 +1,3 @@
+experta==1.9.4
+Flask
+Flask-Cors==4.0.0
